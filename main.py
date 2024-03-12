@@ -5,6 +5,7 @@ from time import sleep
 TOKEN = '5716281114:AAEILmG1Pwp40YbDuo_DKp2J5jP1e-OZqak' 
 bot = TeleBot(TOKEN)
 
+# Привет Чингиз!
 
 game = False 
 night = False
